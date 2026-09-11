@@ -1,0 +1,4 @@
+﻿DVM,Seplookup,"The lookup resource Aprillookup is used for geographic location mapping, working with business objects such as country and state names, and is utilized in orchestration for data integration and transformation. 
+For example, it can map a country code like In to a full name India and a state like Gujarat.",
+Country,Country_Full_Name,State
+In,India,Gujarat
